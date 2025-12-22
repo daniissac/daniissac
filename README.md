@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning DevOps, ML
 - 💞️ I’m looking to collaborate on anything awesome
 - 📫 How to reach me: https://daniissac.com
-- ⚡ Fun fact: Never been a software engineer
 
 <!---
 daniissac/daniissac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
