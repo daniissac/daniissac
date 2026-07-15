@@ -1,32 +1,36 @@
-# Hi, I'm Dani Issac
+# Dani Issac
 
-I'm a network engineer and technical learning experience designer focused on making complex systems easier to understand, operate, and automate.
+I build visual explanations and evidence-first tools for understanding how networks behave.
 
-My work sits at the intersection of enterprise networking, ThousandEyes, developer tooling, and hands-on technical education. I build practical tools and interactive experiences that turn network behavior into something people can see and act on.
+My work combines network engineering, observability, Python tooling, and technical education. I use real traces, reproducible evidence, and interactive systems to turn complex network behavior into something people can inspect and act on.
 
-[Portfolio](https://daniissac.com) · [LinkedIn](https://www.linkedin.com/in/daniissac) · [GitHub projects](https://github.com/daniissac?tab=repositories)
+[Technical home](https://daniissac.com) · [LinkedIn](https://www.linkedin.com/in/daniissac) · [All projects](https://github.com/daniissac?tab=repositories)
 
-## Featured projects
+## Start with Internet in Motion
 
-| Project | What it does | Try it |
+[Internet in Motion](https://github.com/daniissac/internet-in-motion) is an interactive, browser-based journey through DNS, packets, routing, transport, and web performance. It is the clearest expression of how I like to teach: make the system visible, connect each layer, and let people explore it directly.
+
+[Explore the live experience](https://daniissac.com/internet-in-motion/) · [View the source](https://github.com/daniissac/internet-in-motion)
+
+## Selected projects
+
+| Project | What it does | Explore |
 | --- | --- | --- |
-| [Internet in Motion](https://github.com/daniissac/internet-in-motion) | Interactive visual journey through DNS, packets, routing, transport, and web performance | [Live experience](https://daniissac.com/internet-in-motion/) |
+| [FrameCite](https://github.com/daniissac/framecite) | Local-first MCP server for evidence-driven PCAP troubleshooting, with conclusions tied to packet frames | [Source](https://github.com/daniissac/framecite) |
 | [ConfigDiff](https://github.com/daniissac/configdiff) | Semantic configuration comparison for JSON, YAML, TOML, and INI | [PyPI](https://pypi.org/project/configdiff/) |
-| [whoson](https://github.com/daniissac/whoson) | Nmap-powered subnet audit, change detection, inventory checks, and topology export | [PyPI](https://pypi.org/project/whoson/) |
+| [whoson](https://github.com/daniissac/whoson) | Subnet auditing, change detection, inventory checks, and topology export | [PyPI](https://pypi.org/project/whoson/) |
 | [README Studio](https://github.com/daniissac/readme-studio) | GitHub-flavored Markdown editor with Mermaid, math, templates, and badges | [Live app](https://daniissac.com/readme-studio/) |
 | [cml2gns](https://github.com/daniissac/cml2gns) | Converts Cisco CML and VIRL topologies into GNS3 projects | [Source](https://github.com/daniissac/cml2gns) |
-| [PacketPilot](https://github.com/daniissac/packetpilot) | PCAP analytics with visual dashboards and optional LLM-assisted analysis | [Source](https://github.com/daniissac/packetpilot) |
 
-## Areas I work in
+## What I write and build around
 
-- Enterprise network diagnostics and observability
-- ThousandEyes deployment, troubleshooting, and enablement
-- Python-based networking and automation tools
-- Interactive technical learning experiences
-- Clear documentation for complex systems
+- Internet behavior, network diagnostics, and observability
+- PCAP analysis and deterministic troubleshooting evidence
+- Python tools for network engineers and operators
+- Interactive technical learning and clear systems explanations
 
 ## Current focus
 
-I'm exploring better ways to teach networking visually and building open-source utilities for network engineers, operators, and technical educators.
+I'm building an independent technical publication and a collection of small, dependable tools for people who operate, troubleshoot, and teach networks.
 
-If one of these projects is useful, feedback and contributions are always welcome.
+If something here is useful, feedback and thoughtful contributions are welcome.
