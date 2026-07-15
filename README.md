@@ -20,7 +20,7 @@ My work combines network engineering, observability, Python tooling, and technic
 | [ConfigDiff](https://github.com/daniissac/configdiff) | Semantic configuration comparison for JSON, YAML, TOML, and INI | [PyPI](https://pypi.org/project/configdiff/) |
 | [whoson](https://github.com/daniissac/whoson) | Subnet auditing, change detection, inventory checks, and topology export | [PyPI](https://pypi.org/project/whoson/) |
 | [README Studio](https://github.com/daniissac/readme-studio) | GitHub-flavored Markdown editor with Mermaid, math, templates, and badges | [Live app](https://daniissac.com/readme-studio/) |
-| [cml2gns](https://github.com/daniissac/cml2gns) | Converts Cisco CML and VIRL topologies into GNS3 projects | [Source](https://github.com/daniissac/cml2gns) |
+| [cml2gns](https://github.com/daniissac/cml2gns) | Converts Cisco CML and VIRL topologies into GNS3 projects | [PyPI](https://pypi.org/project/cml2gns/) |
 
 ## What I write and build around
 
