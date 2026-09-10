@@ -16,7 +16,7 @@ My work combines network engineering, observability, Python tooling, and technic
 
 | Project | What it does | Explore |
 | --- | --- | --- |
-| [FrameCite](https://github.com/daniissac/framecite) | Local-first MCP server for evidence-driven PCAP troubleshooting, with conclusions tied to packet frames | [Source](https://github.com/daniissac/framecite) |
+| [FrameCite](https://github.com/daniissac/framecite) | Local, payload-redacted PCAP troubleshooting over MCP with deterministic packet citations | [PyPI](https://pypi.org/project/framecite/) |
 | [ConfigDiff](https://github.com/daniissac/configdiff) | Semantic configuration comparison for JSON, YAML, TOML, and INI | [PyPI](https://pypi.org/project/configdiff/) |
 | [whoson](https://github.com/daniissac/whoson) | Subnet auditing, change detection, inventory checks, and topology export | [PyPI](https://pypi.org/project/whoson/) |
 | [README Studio](https://github.com/daniissac/readme-studio) | GitHub-flavored Markdown editor with Mermaid, math, templates, and badges | [Live app](https://daniissac.com/readme-studio/) |
