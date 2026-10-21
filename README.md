@@ -8,9 +8,11 @@ My work combines network engineering, observability, Python tooling, and technic
 
 ## Start with Internet in Motion
 
-[Internet in Motion](https://github.com/daniissac/internet-in-motion) is an interactive, browser-based journey through DNS, packets, routing, transport, and web performance. It is the clearest expression of how I like to teach: make the system visible, connect each layer, and let people explore it directly.
+An interactive, browser-based journey through DNS, packets, routing, transport, and web performance. It is the clearest expression of how I like to teach: make the system visible, connect each layer, and let people explore it directly.
 
-[Explore the live experience](https://daniissac.com/internet-in-motion/) · [View the source](https://github.com/daniissac/internet-in-motion)
+[![Internet in Motion: What Happens When You Open a Website?](https://raw.githubusercontent.com/daniissac/internet-in-motion/main/public/og.png)](https://daniissac.com/internet-in-motion/)
+
+[View the source](https://github.com/daniissac/internet-in-motion)
 
 ## Selected projects
 
@@ -18,9 +20,16 @@ My work combines network engineering, observability, Python tooling, and technic
 | --- | --- | --- |
 | [FrameCite](https://github.com/daniissac/framecite) | Local, payload-redacted PCAP troubleshooting over MCP with deterministic packet citations | [PyPI](https://pypi.org/project/framecite/) |
 | [ConfigDiff](https://github.com/daniissac/configdiff) | Semantic configuration comparison for JSON, YAML, TOML, and INI | [PyPI](https://pypi.org/project/configdiff/) |
+| [cml2gns](https://github.com/daniissac/cml2gns) | Converts Cisco CML and VIRL topologies into GNS3 projects | [PyPI](https://pypi.org/project/cml2gns/) |
+
+## Earlier projects
+
+These repositories are archived and read-only. Their source remains available for reference.
+
+| Project | What it does | Explore |
+| --- | --- | --- |
 | [whoson](https://github.com/daniissac/whoson) | Subnet auditing, change detection, inventory checks, and topology export | [PyPI](https://pypi.org/project/whoson/) |
 | [README Studio](https://github.com/daniissac/readme-studio) | GitHub-flavored Markdown editor with Mermaid, math, templates, and badges | [Live app](https://daniissac.com/readme-studio/) |
-| [cml2gns](https://github.com/daniissac/cml2gns) | Converts Cisco CML and VIRL topologies into GNS3 projects | [PyPI](https://pypi.org/project/cml2gns/) |
 
 ## What I write and build around
 
