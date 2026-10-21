@@ -8,11 +8,11 @@ My work combines network engineering, observability, Python tooling, and technic
 
 ## Start with Internet in Motion
 
-[Internet in Motion](https://github.com/daniissac/internet-in-motion) is an interactive, browser-based journey through DNS, packets, routing, transport, and web performance. It is the clearest expression of how I like to teach: make the system visible, connect each layer, and let people explore it directly.
+An interactive, browser-based journey through DNS, packets, routing, transport, and web performance. It is the clearest expression of how I like to teach: make the system visible, connect each layer, and let people explore it directly.
 
 [![Internet in Motion: What Happens When You Open a Website?](https://raw.githubusercontent.com/daniissac/internet-in-motion/main/public/og.png)](https://daniissac.com/internet-in-motion/)
 
-[Explore the live experience](https://daniissac.com/internet-in-motion/) · [View the source](https://github.com/daniissac/internet-in-motion)
+[View the source](https://github.com/daniissac/internet-in-motion)
 
 ## Selected projects
 
